@@ -122,7 +122,7 @@ const UserSignIn = () => {
         </Form>
       </div>
       <footer className="mt-6 text-sm text-muted-foreground text-center">
-        Made with <span className="text-red-500">❤️</span> by Khushi Bansal
+        Made with <span className="text-red-500">❤️</span> by Khushi Bansal ,
       </footer>
     </main>
   );
