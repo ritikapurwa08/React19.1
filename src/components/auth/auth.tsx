@@ -70,7 +70,7 @@ const UserSignIn = () => {
   };
 
   return (
-    <main className="flex items-center w-screen justify-center min-h-screen px-4 py-10 bg-background text-foreground">
+    <main className="flex flex-col items-center w-screen justify-center min-h-screen px-4 py-10 bg-background text-foreground">
       <div className="w-full max-w-sm min-w-full sm:min-w-xs md:min-w-ms sm:max-w-md md:max-w-md bg-card shadow-lg rounded-xl p-6 sm:p-8 space-y-6 transition-all duration-300">
         <div className="text-center">
           <h1 className="text-2xl font-semibold tracking-tight sm:text-3xl">
