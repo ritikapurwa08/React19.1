@@ -36,8 +36,8 @@ const App = () => {
   return (
     <main className="flex flex-col h-full items-center justify-center bg-background text-foreground px-4">
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/auth" element={<UserSignIn />} />
+        <Route path="/" element={<UserSignIn />} />
+        <Route path="/home" element={<Home />} />
         {/* You can add more routes here */}
       </Routes>
     </main>
